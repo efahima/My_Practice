@@ -6,5 +6,7 @@ public class Prog1 {
         String item1="Pen";
         System.out.println(item1);
         String item2="Pencil";
+        System.out.println(item2);
+
     }
 }
