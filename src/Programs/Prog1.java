@@ -5,5 +5,6 @@ public class Prog1 {
         System.out.println("Enter item numbers");
         String item1="Pen";
         System.out.println(item1);
+        String item2="Pencil";
     }
 }
